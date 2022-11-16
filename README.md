@@ -21,6 +21,7 @@
 - Compartilhar links de grupos sem permissão;
 - Flood de figurinhas, imagens, vídeos, áudio ou mensagens;
 - Spam de eventos, links, afiliados e quaisquer outros tipos;
+- Enquetes (apenas admins ou com permissão);
 - Pornô, incluindo hentai e foto da teta;
 - Gore.
 
