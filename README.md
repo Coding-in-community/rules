@@ -6,7 +6,7 @@
     <p><i>As regras de todos os grupos da comunidade</i></p>
 </div>
 
-> OBS: As regras base são válidas para todos os grupos, porém, cada um possui a liberdade de incluir, retirar ou modificar as mesmas da forma que for mais conveniente.
+> OBS: Lembre-se que a educação é essencial para uma convivência saudável e respeitosa tanto dentro quanto fora dos grupos.
 
 ## Etiqueta para perguntas
 
@@ -26,14 +26,6 @@
 14. Noob não significa retardado. Então se esforce e estude;
 15. Nunca pergunte algo e suma do mapa, isso é indelicado;
 16. Se ninguém te respondeu e você encontrou a solução em outro lugar, volte no grupo e explique. O mundo não gira em torno do seu umbigo.
-
-## Contribuições
-
-Todos tipo de contribuição é bem-vinda ;)
-
-Se quiser propor novas regras ou discutir as existentes, abra uma [Issue](https://github.com/Coding-in-community/rules/issues)
-
-Para fazer alguma correção ou implementar uma regra aprovada em uma discussão, abra um [Pull Request](https://github.com/Coding-in-community/rules/pulls)
 
 ## Licença
 
