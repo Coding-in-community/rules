@@ -8,26 +8,24 @@
 
 > OBS: As regras base são válidas para todos os grupos, porém, cada um possui a liberdade de incluir, retirar ou modificar as mesmas da forma que for mais conveniente.
 
-## Permitido ✔
+## Etiqueta para perguntas
 
-- Falar sobre qualquer linguagem de programação;
-- Compartilhar conhecimento, independente da fonte;
-- Conversas paralelas, mas sem atrapalhar assuntos sérios;
-- Tretas, ofensas e desrespeito. Só peguem leve;
-- Pedir para ser adm (a resposta é não).
-
-## Liberado apenas com permissão ❔  
-
-- Compartilhar links de grupo ou eventos;
-- Enviar propagandas ou links de afiliado;
-- Pautas ideológicas ou com viés político.
-
-## Proibido ❌
-
-- Qualquer forma de spam;
-- Invasão de privacidade e exposição de informações pessoais.
-- Pornô, incluindo hentai e foto da teta;
-- Gore.
+1. Nunca pergunte se alguém **manja** alguma coisa;
+2. Não diga `alguém faz para mim`. Os profissionais costumam cobrar para fazer alguma coisa;
+3. Ser noob não é desculpa para fazer pergunta descuidada, que só gera deboche por parte dos outros colegas;
+4. Pergunte primeiro ao Google;
+5. Elabore sua pergunta, ninguém é advinho, ninguém sabe o que passa na sua cabeça;
+6. Seja objetivo;
+7. Se alguém não entendeu, pelo menos se esforce para se fazer entender, é você quem está em busca de respostas;
+8. Seja descritivo, evite pergunta de 1 linha, contextualize e exponha a sua dor;
+9. Ninguém tem o dever de te ajudar, então seja amigável e ouvinte;
+10. Não peça `socorro!` no grupo. Ligue para 190;
+11. Seja um noob respeitável, aprenda a falar a língua dos programadores;
+12. Ninguém tem pena de você porque você é pobre ou mora em outro país que não tem internet. Então para com isso;
+13. Nunca peça ajuda no PV;
+14. Noob não significa retardado. Então se esforce e estude;
+15. Nunca pergunte algo e suma do mapa, isso é indelicado;
+16. Se ninguém te respondeu e você encontrou a solução em outro lugar, volte no grupo e explique. O mundo não gira em torno do seu umbigo.
 
 ## Contribuições
 
