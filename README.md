@@ -25,7 +25,7 @@
 ## Proibido ❌
 
 - Qualquer forma de spam;
-- Invasão de privacidade e exposição de informações pessoais.
+- Invasão de privacidade e exposição de informações pessoais;
 - Pornô, incluindo hentai e foto da teta;
 - Gore.
 
