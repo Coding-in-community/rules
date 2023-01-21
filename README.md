@@ -27,22 +27,20 @@
 
 ## Etiqueta para perguntas
 
-1. Nunca pergunte se alguém **manja** alguma coisa;
-2. Não diga `alguém faz para mim`. Os profissionais costumam cobrar para fazer alguma coisa;
-3. Ser noob não é desculpa para fazer pergunta descuidada, que só gera deboche por parte dos outros colegas;
-4. Pergunte primeiro ao Google;
-5. Elabore sua pergunta, ninguém é advinho, ninguém sabe o que passa na sua cabeça;
-6. Seja objetivo;
-7. Se alguém não entendeu, pelo menos se esforce para se fazer entender, é você quem está em busca de respostas;
-8. Seja descritivo, evite pergunta de 1 linha, contextualize e exponha a sua dor;
-9. Ninguém tem o dever de te ajudar, então seja amigável e ouvinte;
-10. Não peça `socorro!` no grupo. Ligue para 190;
-11. Seja um noob respeitável, aprenda a falar a língua dos programadores;
-12. Ninguém tem pena de você porque você é pobre ou mora em outro país que não tem internet. Então para com isso;
-13. Nunca peça ajuda no PV;
-14. Noob não significa retardado. Então se esforce e estude;
-15. Nunca pergunte algo e suma do mapa, isso é indelicado;
-16. Se ninguém te respondeu e você encontrou a solução em outro lugar, volte no grupo e explique. O mundo não gira em torno do seu umbigo.
+1. Formule suas perguntas de maneira clara e objetiva;
+2. Faça uma busca prévia na internet antes de perguntar;
+3. Forneça detalhes e contexto suficientes para que seja possível entender sua dúvida ou problema;
+4. Se alguém não entender sua pergunta, tente explicá-la de maneira diferente;
+5. Seja amigável e ouvinte;
+6. Aprenda a falar a "linguagem" dos programadores e seja um iniciante respeitável;
+7. Não faça perguntas privadas a outros membros do grupo;
+8. Se você encontrar a resposta para sua pergunta em outro lugar, volte ao grupo e compartilhe-a;
+9. Evite pedir para alguém fazer algo para você;
+10. Lembre-se de que ser iniciante não é uma desculpa para fazer perguntas impróprias ou mal elaboradas;
+11. Não use o grupo para pedir "socorro" em situações de emergência;
+12. Não use sua condição socioeconômica ou geográfica como desculpa para não estudar ou se esforçar.
+
+As dicas de etiqueta para perguntas fornecidas servem como guia para formular suas perguntas de maneira adequada e obter respostas mais úteis e eficientes. Mantenha em mente que a colaboração e o respeito são fundamentais para o seu sucesso.
 
 ## Contribuições
 
