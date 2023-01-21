@@ -16,12 +16,16 @@
 - Tretas, ofensas e desrespeito. Só peguem leve;
 - Pedir para ser adm (a resposta é não).
 
+## Liberado apenas com permissão ❔
+
+- Compartilhar links de grupo ou eventos;
+- Enviar propagandas ou links de afiliado;
+- Pautas ideológicas ou com viés político.
+
 ## Proibido ❌
 
-- Compartilhar links de grupos sem permissão;
-- Flood de figurinhas, imagens, vídeos, áudio ou mensagens;
-- Spam de eventos, links, afiliados e quaisquer outros tipos;
-- Enquetes (apenas admins ou com permissão);
+- Qualquer forma de spam;
+- Invasão de privacidade e exposição de informações pessoais;
 - Pornô, incluindo hentai e foto da teta;
 - Gore.
 
