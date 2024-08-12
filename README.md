@@ -8,7 +8,7 @@
 
 > OBS: As regras base são válidas para todos os grupos, porém, cada um possui a liberdade de incluir, retirar ou modificar as mesmas da forma que for mais conveniente.
 
-## Permitido ✔
+## ✔ Permitido
 
 - Falar sobre qualquer linguagem de programação;
 - Compartilhar conhecimento, independente da fonte;
@@ -16,20 +16,21 @@
 - Tretas, ofensas e desrespeito. Só peguem leve;
 - Pedir para ser adm (a resposta é não).
 
-## Liberado apenas com permissão ❔
+## ❔ Liberado apenas com permissão
 
 - Compartilhar links de grupo ou eventos;
 - Enviar propagandas ou links de afiliado;
 - Pautas ideológicas ou com viés político.
 
-## Proibido ❌
+## ❌ Proibido
 
 - Qualquer forma de spam;
+- Pedir dinheiro, doações ou coisas semelhantes;
 - Invasão de privacidade e exposição de informações pessoais;
 - Pornô, incluindo hentai e foto da teta;
 - Gore.
 
-## Etiqueta para perguntas
+## 🏷️ Etiqueta para perguntas
 
 1. Formule suas perguntas de maneira clara e objetiva;
 2. Faça uma busca prévia na internet antes de perguntar;
@@ -46,7 +47,7 @@
 
 As dicas de etiqueta para perguntas fornecidas servem como guia para formular suas perguntas de maneira adequada e obter respostas mais úteis e eficientes. Mantenha em mente que a colaboração e o respeito são fundamentais para o seu sucesso.
 
-## Contribuições
+## 💪 Contribuições
 
 Todos tipo de contribuição é bem-vinda ;)
 
@@ -54,6 +55,6 @@ Se quiser propor novas regras ou discutir as existentes, abra uma [Issue](https:
 
 Para fazer alguma correção ou implementar uma regra aprovada em uma discussão, abra um [Pull Request](https://github.com/Coding-in-community/rules/pulls)
 
-## Licença
+## 📄 Licença
 
 Todas as informações contidas aqui usam [Creative Commons Zero v1.0 Universal](https://github.com/Coding-in-community/rules/blob/master/LICENSE) como licença.
