@@ -16,12 +16,6 @@
 - Tretas, ofensas e desrespeito. Só peguem leve;
 - Pedir para ser adm (a resposta é não).
 
-## ❔ Liberado apenas com permissão
-
-- Compartilhar links de grupo ou eventos;
-- Enviar propagandas ou links de afiliado;
-- Pautas ideológicas ou com viés político.
-
 ## ❌ Proibido
 
 - Qualquer forma de spam;
@@ -29,6 +23,24 @@
 - Invasão de privacidade e exposição de informações pessoais;
 - Pornô, incluindo hentai e foto da teta;
 - Gore.
+
+## ❔ Liberado apenas com permissão
+
+- Compartilhar links de grupo ou eventos;
+- Enviar propagandas ou links de afiliado;
+- Venda de dispositivos que façam sentido pro mundo dev;
+- Pautas ideológicas ou com viés político.
+
+## 💼 Especial para o grupo de vagas
+
+- Apenas divulgação de vagas para devs;
+- Sem conversas paralelas/off-topic;
+- Permitido tirar dúvidas sobre as vagas divulgadas.
+
+## 🤖 Uso do Meta AI
+
+- Permitido para acrescentar informação ao contexto;
+- Em conversas informais pode ser usado com menor moderação, porém respeitando as regras gerais.
 
 ## 🏷️ Etiqueta para perguntas
 
